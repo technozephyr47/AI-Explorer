@@ -1,0 +1,23 @@
+AI-Explorer/
+├── .github/
+│   ├── workflows/
+│   │   └── ci-cd.yml
+│   └── ISSUE_TEMPLATE/
+│       ├── bug_report.md
+│       └── feature_request.md
+├── docs/
+│   └── getting_started.md
+├── src/
+│   ├── ai_explorer/
+│   │   ├── __init__.py
+│   │   ├── core.py
+│   │   ├── algorithms/
+│   │   ├── datasets/
+│   │   └── visualization/
+│   └── tests/
+├── examples/
+│   ├── basic_usage.ipynb
+│   └── advanced_demos/
+├── requirements.txt
+├── LICENSE
+└── README.md
